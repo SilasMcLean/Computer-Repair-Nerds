@@ -1,2 +1,2 @@
 # README
-[Computer Repair Victoria][http://computerrepairnerds.com]
+[Computer Repair Victoria](http://computerrepairnerds.com)
